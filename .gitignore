@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+*.iml
+bin/
+logs/
+build/
+data/
+out/
+.gradle/
+*.log
+.*.sw?
